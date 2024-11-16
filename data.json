@@ -1,0 +1,4943 @@
+[
+    {
+        "firstName": "Анна",
+        "middleName": "Владимирович",
+        "lastName": "Волков",
+        "birthDate": "1974-07-29T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "96 69",
+            "number": "745143",
+            "issuedAt": "2007-04-23T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "464-730"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-04-21T00:00:00Z",
+                "rate": 0.08,
+                "loanSum": 187968,
+                "term": 43,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "626018-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2021-11-24T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 41275,
+                "term": 39,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "886014-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Владимирович",
+        "lastName": "Смирнова",
+        "birthDate": "1974-06-01T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "35 41",
+            "number": "725734",
+            "issuedAt": "2009-06-25T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "702-662"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2003-06-24T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 480294,
+                "term": 14,
+                "repaidAt": "2004-08-17T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "672084-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2022-09-04T00:00:00Z",
+                "rate": 0.27,
+                "loanSum": 256769,
+                "term": 7,
+                "repaidAt": "2023-04-02T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "307355-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Николаевна",
+        "lastName": "Сидорова",
+        "birthDate": "1988-09-06T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "64 90",
+            "number": "822268",
+            "issuedAt": "2013-06-29T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "693-551"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-10-26T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 331700,
+                "term": 10,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "389984-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2020-04-14T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 92139,
+                "term": 23,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "641895-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2020-10-18T00:00:00Z",
+                "rate": 0.15,
+                "loanSum": 157767,
+                "term": 9,
+                "repaidAt": "2021-07-15T00:00:00Z",
+                "currentOverdueDebt": 15874,
+                "numberOfDaysOnOverdue": 19,
+                "remainingDebt": 0,
+                "creditId": "218952-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2003-04-06T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 363636,
+                "term": 39,
+                "repaidAt": "2006-06-19T00:00:00Z",
+                "currentOverdueDebt": 6090,
+                "numberOfDaysOnOverdue": 19,
+                "remainingDebt": 0,
+                "creditId": "254965-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Николаевна",
+        "lastName": "Соколова",
+        "birthDate": "1987-09-27T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "22 69",
+            "number": "645040",
+            "issuedAt": "2016-07-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "922-761"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-09-30T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 61809,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 14918,
+                "numberOfDaysOnOverdue": 12,
+                "remainingDebt": 0,
+                "creditId": "444372-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2016-08-17T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 90327,
+                "term": 48,
+                "repaidAt": "2020-07-27T00:00:00Z",
+                "currentOverdueDebt": 12881,
+                "numberOfDaysOnOverdue": 25,
+                "remainingDebt": 0,
+                "creditId": "818516-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-08-12T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 471212,
+                "term": 18,
+                "repaidAt": null,
+                "currentOverdueDebt": 19750,
+                "numberOfDaysOnOverdue": 35,
+                "remainingDebt": 0,
+                "creditId": "487797-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Сергеевна",
+        "lastName": "Волков",
+        "birthDate": "1961-10-28T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "42 80",
+            "number": "961410",
+            "issuedAt": "2009-06-07T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "893-100"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2021-06-12T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 370475,
+                "term": 46,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "699225-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-01-22T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 478389,
+                "term": 18,
+                "repaidAt": "2018-07-16T00:00:00Z",
+                "currentOverdueDebt": 7010,
+                "numberOfDaysOnOverdue": 44,
+                "remainingDebt": 0,
+                "creditId": "569384-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Александрович",
+        "lastName": "Сидорова",
+        "birthDate": "1990-01-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "35 33",
+            "number": "722556",
+            "issuedAt": "2015-11-29T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "858-528"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2000-05-22T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 22972,
+                "term": 40,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "145483-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-02-17T00:00:00Z",
+                "rate": 0.27,
+                "loanSum": 366108,
+                "term": 44,
+                "repaidAt": "2005-09-29T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "461980-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Николаевна",
+        "lastName": "Волков",
+        "birthDate": "2004-10-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "62 31",
+            "number": "964914",
+            "issuedAt": "2007-06-02T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "526-513"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2021-11-24T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 63900,
+                "term": 14,
+                "repaidAt": null,
+                "currentOverdueDebt": 8313,
+                "numberOfDaysOnOverdue": 59,
+                "remainingDebt": 0,
+                "creditId": "493348-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-01-15T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 31598,
+                "term": 8,
+                "repaidAt": "2005-09-12T00:00:00Z",
+                "currentOverdueDebt": 8109,
+                "numberOfDaysOnOverdue": 15,
+                "remainingDebt": 0,
+                "creditId": "265039-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Александрович",
+        "lastName": "Соколова",
+        "birthDate": "1980-10-26T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "18 26",
+            "number": "830162",
+            "issuedAt": "2006-10-22T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "690-457"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2012-06-02T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 412349,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "129682-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2008-07-05T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 169529,
+                "term": 37,
+                "repaidAt": "2011-07-20T00:00:00Z",
+                "currentOverdueDebt": 11406,
+                "numberOfDaysOnOverdue": 45,
+                "remainingDebt": 0,
+                "creditId": "744785-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-12-28T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 172614,
+                "term": 45,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "233077-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-03-23T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 238649,
+                "term": 26,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "441345-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Владимирович",
+        "lastName": "Волков",
+        "birthDate": "1974-05-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "24 30",
+            "number": "827108",
+            "issuedAt": "2014-04-21T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "605-782"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-12-24T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 199495,
+                "term": 9,
+                "repaidAt": null,
+                "currentOverdueDebt": 16318,
+                "numberOfDaysOnOverdue": 42,
+                "remainingDebt": 0,
+                "creditId": "772730-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-05-02T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 393548,
+                "term": 32,
+                "repaidAt": "2012-12-17T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "839644-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2014-08-22T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 452801,
+                "term": 31,
+                "repaidAt": null,
+                "currentOverdueDebt": 4716,
+                "numberOfDaysOnOverdue": 24,
+                "remainingDebt": 0,
+                "creditId": "956298-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2014-05-31T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 36293,
+                "term": 25,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "605344-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Сергеевна",
+        "lastName": "Соколова",
+        "birthDate": "1963-01-11T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "66 11",
+            "number": "387248",
+            "issuedAt": "2011-09-24T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "961-951"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-12-17T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 288605,
+                "term": 28,
+                "repaidAt": "2007-04-06T00:00:00Z",
+                "currentOverdueDebt": 6994,
+                "numberOfDaysOnOverdue": 21,
+                "remainingDebt": 0,
+                "creditId": "964861-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Владимирович",
+        "lastName": "Соколова",
+        "birthDate": "1973-03-04T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "73 30",
+            "number": "575128",
+            "issuedAt": "2007-04-21T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "908-260"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2008-04-16T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 374952,
+                "term": 28,
+                "repaidAt": "2010-08-04T00:00:00Z",
+                "currentOverdueDebt": 14724,
+                "numberOfDaysOnOverdue": 49,
+                "remainingDebt": 0,
+                "creditId": "431217-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-09-09T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 349335,
+                "term": 24,
+                "repaidAt": "2009-08-29T00:00:00Z",
+                "currentOverdueDebt": 4073,
+                "numberOfDaysOnOverdue": 40,
+                "remainingDebt": 0,
+                "creditId": "696042-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-05-22T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 348190,
+                "term": 13,
+                "repaidAt": "2002-06-16T00:00:00Z",
+                "currentOverdueDebt": 4902,
+                "numberOfDaysOnOverdue": 14,
+                "remainingDebt": 0,
+                "creditId": "213519-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Ивановна",
+        "lastName": "Морозова",
+        "birthDate": "2004-10-12T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "91 14",
+            "number": "613782",
+            "issuedAt": "2010-11-16T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "551-965"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-06-08T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 340138,
+                "term": 31,
+                "repaidAt": "2004-12-24T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "898678-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Ивановна",
+        "lastName": "Петров",
+        "birthDate": "2002-12-08T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "29 71",
+            "number": "662405",
+            "issuedAt": "2007-10-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "866-281"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-08-25T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 481220,
+                "term": 6,
+                "repaidAt": "2008-02-21T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "228645-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-09-02T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 226195,
+                "term": 28,
+                "repaidAt": "2009-12-20T00:00:00Z",
+                "currentOverdueDebt": 7887,
+                "numberOfDaysOnOverdue": 18,
+                "remainingDebt": 0,
+                "creditId": "573961-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2013-06-08T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 393807,
+                "term": 42,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "773610-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2013-05-13T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 193619,
+                "term": 22,
+                "repaidAt": "2015-03-04T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "956317-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Николаевна",
+        "lastName": "Морозова",
+        "birthDate": "2003-05-18T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "60 91",
+            "number": "490721",
+            "issuedAt": "2020-12-04T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "118-719"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2010-12-29T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 104523,
+                "term": 7,
+                "repaidAt": "2011-07-27T00:00:00Z",
+                "currentOverdueDebt": 6498,
+                "numberOfDaysOnOverdue": 19,
+                "remainingDebt": 0,
+                "creditId": "489012-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-08-11T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 363466,
+                "term": 24,
+                "repaidAt": "2004-07-31T00:00:00Z",
+                "currentOverdueDebt": 7415,
+                "numberOfDaysOnOverdue": 19,
+                "remainingDebt": 0,
+                "creditId": "127309-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-06-09T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 267545,
+                "term": 44,
+                "repaidAt": "2009-01-19T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "839794-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2022-07-13T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 230198,
+                "term": 14,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "987583-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Николаевна",
+        "lastName": "Смирнова",
+        "birthDate": "1963-06-26T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "15 29",
+            "number": "588584",
+            "issuedAt": "2008-07-29T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "990-860"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2003-10-25T00:00:00Z",
+                "rate": 0.08,
+                "loanSum": 110859,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 9475,
+                "numberOfDaysOnOverdue": 28,
+                "remainingDebt": 0,
+                "creditId": "485948-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2000-12-11T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 369407,
+                "term": 6,
+                "repaidAt": "2001-06-09T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "745107-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Николаевна",
+        "lastName": "Соколова",
+        "birthDate": "1982-12-26T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "95 87",
+            "number": "917098",
+            "issuedAt": "2022-08-22T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "839-182"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2005-08-08T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 306750,
+                "term": 25,
+                "repaidAt": "2007-08-28T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "494527-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2010-03-05T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 360484,
+                "term": 35,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "660380-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2010-09-11T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 300359,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 4310,
+                "numberOfDaysOnOverdue": 51,
+                "remainingDebt": 0,
+                "creditId": "107195-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Александрович",
+        "lastName": "Волков",
+        "birthDate": "2001-01-05T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "59 62",
+            "number": "719767",
+            "issuedAt": "2019-01-28T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "446-271"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2017-11-11T00:00:00Z",
+                "rate": 0.27,
+                "loanSum": 397960,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 11334,
+                "numberOfDaysOnOverdue": 34,
+                "remainingDebt": 0,
+                "creditId": "404039-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Николаевна",
+        "lastName": "Морозова",
+        "birthDate": "1984-10-20T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "83 73",
+            "number": "917632",
+            "issuedAt": "2023-08-29T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "634-227"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2020-09-21T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 487921,
+                "term": 40,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "513404-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2018-03-20T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 147886,
+                "term": 30,
+                "repaidAt": "2020-09-05T00:00:00Z",
+                "currentOverdueDebt": 10449,
+                "numberOfDaysOnOverdue": 41,
+                "remainingDebt": 0,
+                "creditId": "661723-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-01-06T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 243034,
+                "term": 8,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "518512-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Александрович",
+        "lastName": "Волков",
+        "birthDate": "1969-05-05T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "85 51",
+            "number": "441228",
+            "issuedAt": "2012-11-25T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "783-563"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2011-11-28T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 12586,
+                "term": 16,
+                "repaidAt": "2013-03-22T00:00:00Z",
+                "currentOverdueDebt": 1686,
+                "numberOfDaysOnOverdue": 43,
+                "remainingDebt": 0,
+                "creditId": "928454-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-05-06T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 102373,
+                "term": 24,
+                "repaidAt": null,
+                "currentOverdueDebt": 16070,
+                "numberOfDaysOnOverdue": 53,
+                "remainingDebt": 0,
+                "creditId": "259631-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2016-08-05T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 464750,
+                "term": 47,
+                "repaidAt": null,
+                "currentOverdueDebt": 8361,
+                "numberOfDaysOnOverdue": 39,
+                "remainingDebt": 0,
+                "creditId": "259038-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-07-19T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 129383,
+                "term": 33,
+                "repaidAt": "2005-04-04T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "653991-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Александрович",
+        "lastName": "Смирнова",
+        "birthDate": "1973-02-10T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "23 57",
+            "number": "558766",
+            "issuedAt": "2011-11-20T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "675-355"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-09-09T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 132357,
+                "term": 36,
+                "repaidAt": "2013-08-24T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "415041-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2001-06-21T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 278524,
+                "term": 20,
+                "repaidAt": "2003-02-11T00:00:00Z",
+                "currentOverdueDebt": 2101,
+                "numberOfDaysOnOverdue": 59,
+                "remainingDebt": 0,
+                "creditId": "878862-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-06-20T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 247641,
+                "term": 45,
+                "repaidAt": "2027-03-01T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "739531-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2013-08-12T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 490142,
+                "term": 31,
+                "repaidAt": null,
+                "currentOverdueDebt": 19724,
+                "numberOfDaysOnOverdue": 26,
+                "remainingDebt": 0,
+                "creditId": "705210-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Ивановна",
+        "lastName": "Сидорова",
+        "birthDate": "1992-09-23T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "33 46",
+            "number": "643430",
+            "issuedAt": "2019-06-30T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "997-669"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2020-08-14T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 147854,
+                "term": 37,
+                "repaidAt": "2023-08-29T00:00:00Z",
+                "currentOverdueDebt": 15826,
+                "numberOfDaysOnOverdue": 43,
+                "remainingDebt": 0,
+                "creditId": "850216-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2011-12-02T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 238171,
+                "term": 14,
+                "repaidAt": "2013-01-25T00:00:00Z",
+                "currentOverdueDebt": 7034,
+                "numberOfDaysOnOverdue": 14,
+                "remainingDebt": 0,
+                "creditId": "981164-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2017-05-25T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 416104,
+                "term": 24,
+                "repaidAt": "2019-05-15T00:00:00Z",
+                "currentOverdueDebt": 4825,
+                "numberOfDaysOnOverdue": 37,
+                "remainingDebt": 0,
+                "creditId": "516928-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Петрович",
+        "lastName": "Морозова",
+        "birthDate": "1976-01-06T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "23 15",
+            "number": "442373",
+            "issuedAt": "2008-03-08T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "798-676"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-10-28T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 24729,
+                "term": 45,
+                "repaidAt": null,
+                "currentOverdueDebt": 11628,
+                "numberOfDaysOnOverdue": 8,
+                "remainingDebt": 0,
+                "creditId": "964245-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Петрович",
+        "lastName": "Морозова",
+        "birthDate": "2003-09-27T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "54 75",
+            "number": "827882",
+            "issuedAt": "2014-11-21T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "489-331"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-07-20T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 103336,
+                "term": 23,
+                "repaidAt": "2017-06-09T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "492591-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2000-10-20T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 316082,
+                "term": 47,
+                "repaidAt": "2004-08-30T00:00:00Z",
+                "currentOverdueDebt": 10510,
+                "numberOfDaysOnOverdue": 11,
+                "remainingDebt": 0,
+                "creditId": "796233-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Владимирович",
+        "lastName": "Петров",
+        "birthDate": "1969-08-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "51 88",
+            "number": "182731",
+            "issuedAt": "2008-05-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "353-292"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2023-02-26T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 268646,
+                "term": 7,
+                "repaidAt": null,
+                "currentOverdueDebt": 11441,
+                "numberOfDaysOnOverdue": 50,
+                "remainingDebt": 0,
+                "creditId": "853452-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2004-05-15T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 260827,
+                "term": 47,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "164622-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-05-26T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 44439,
+                "term": 16,
+                "repaidAt": "2007-09-18T00:00:00Z",
+                "currentOverdueDebt": 8308,
+                "numberOfDaysOnOverdue": 54,
+                "remainingDebt": 0,
+                "creditId": "268004-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2004-10-10T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 45122,
+                "term": 20,
+                "repaidAt": "2006-06-02T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "882192-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Сергеевна",
+        "lastName": "Сидорова",
+        "birthDate": "1978-09-28T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "79 66",
+            "number": "940594",
+            "issuedAt": "2005-11-14T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "117-987"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-10-21T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 463534,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 14765,
+                "numberOfDaysOnOverdue": 33,
+                "remainingDebt": 0,
+                "creditId": "122668-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2000-12-09T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 237154,
+                "term": 23,
+                "repaidAt": null,
+                "currentOverdueDebt": 1893,
+                "numberOfDaysOnOverdue": 55,
+                "remainingDebt": 0,
+                "creditId": "708885-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2012-08-29T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 134741,
+                "term": 41,
+                "repaidAt": null,
+                "currentOverdueDebt": 4019,
+                "numberOfDaysOnOverdue": 33,
+                "remainingDebt": 0,
+                "creditId": "192367-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Владимирович",
+        "lastName": "Фёдоров",
+        "birthDate": "2002-10-07T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "33 88",
+            "number": "954217",
+            "issuedAt": "2012-03-02T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "588-429"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2022-10-04T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 24062,
+                "term": 11,
+                "repaidAt": "2023-08-30T00:00:00Z",
+                "currentOverdueDebt": 16490,
+                "numberOfDaysOnOverdue": 36,
+                "remainingDebt": 0,
+                "creditId": "828527-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2014-10-15T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 112830,
+                "term": 43,
+                "repaidAt": "2018-04-27T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "632033-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Петрович",
+        "lastName": "Смирнова",
+        "birthDate": "2001-02-04T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "43 32",
+            "number": "580115",
+            "issuedAt": "2010-12-07T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "384-961"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2006-08-18T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 177971,
+                "term": 39,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "507270-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-03-09T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 10547,
+                "term": 35,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "943988-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-09-09T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 372857,
+                "term": 7,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "865733-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-06-07T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 155713,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 10383,
+                "numberOfDaysOnOverdue": 37,
+                "remainingDebt": 0,
+                "creditId": "219312-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Александрович",
+        "lastName": "Петров",
+        "birthDate": "1994-04-17T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "74 41",
+            "number": "941464",
+            "issuedAt": "2006-10-24T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "538-671"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2012-08-06T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 17731,
+                "term": 20,
+                "repaidAt": "2014-03-29T00:00:00Z",
+                "currentOverdueDebt": 5678,
+                "numberOfDaysOnOverdue": 18,
+                "remainingDebt": 0,
+                "creditId": "257742-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-05-07T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 449708,
+                "term": 21,
+                "repaidAt": "2004-01-27T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "140581-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2005-09-08T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 368080,
+                "term": 24,
+                "repaidAt": "2007-08-29T00:00:00Z",
+                "currentOverdueDebt": 14328,
+                "numberOfDaysOnOverdue": 3,
+                "remainingDebt": 0,
+                "creditId": "664638-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Сергеевна",
+        "lastName": "Соколова",
+        "birthDate": "1967-05-22T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "79 83",
+            "number": "987674",
+            "issuedAt": "2005-11-21T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "885-458"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2009-12-01T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 267648,
+                "term": 11,
+                "repaidAt": "2010-10-27T00:00:00Z",
+                "currentOverdueDebt": 13854,
+                "numberOfDaysOnOverdue": 31,
+                "remainingDebt": 0,
+                "creditId": "784516-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-10-02T00:00:00Z",
+                "rate": 0.15,
+                "loanSum": 368717,
+                "term": 41,
+                "repaidAt": "2005-02-13T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "702010-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-06-04T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 280895,
+                "term": 28,
+                "repaidAt": null,
+                "currentOverdueDebt": 11014,
+                "numberOfDaysOnOverdue": 5,
+                "remainingDebt": 0,
+                "creditId": "127458-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Петрович",
+        "lastName": "Морозова",
+        "birthDate": "1988-12-16T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "92 73",
+            "number": "469690",
+            "issuedAt": "2020-11-08T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "582-685"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2010-04-25T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 67239,
+                "term": 42,
+                "repaidAt": "2013-10-06T00:00:00Z",
+                "currentOverdueDebt": 3375,
+                "numberOfDaysOnOverdue": 60,
+                "remainingDebt": 0,
+                "creditId": "502633-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2011-03-18T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 498953,
+                "term": 42,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "716883-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2013-06-09T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 70839,
+                "term": 11,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "995235-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2013-03-14T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 344946,
+                "term": 21,
+                "repaidAt": "2014-12-04T00:00:00Z",
+                "currentOverdueDebt": 15297,
+                "numberOfDaysOnOverdue": 40,
+                "remainingDebt": 0,
+                "creditId": "281047-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Сергеевна",
+        "lastName": "Морозова",
+        "birthDate": "1982-09-30T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "90 95",
+            "number": "465340",
+            "issuedAt": "2011-07-02T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "339-732"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-04-06T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 475663,
+                "term": 13,
+                "repaidAt": null,
+                "currentOverdueDebt": 19361,
+                "numberOfDaysOnOverdue": 34,
+                "remainingDebt": 0,
+                "creditId": "144599-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Петрович",
+        "lastName": "Петров",
+        "birthDate": "2002-02-05T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "60 43",
+            "number": "372728",
+            "issuedAt": "2021-01-22T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "261-767"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-11-20T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 46997,
+                "term": 32,
+                "repaidAt": null,
+                "currentOverdueDebt": 15900,
+                "numberOfDaysOnOverdue": 47,
+                "remainingDebt": 0,
+                "creditId": "955278-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-09-26T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 120472,
+                "term": 35,
+                "repaidAt": "2020-08-11T00:00:00Z",
+                "currentOverdueDebt": 15660,
+                "numberOfDaysOnOverdue": 25,
+                "remainingDebt": 0,
+                "creditId": "346525-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2003-07-16T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 469752,
+                "term": 33,
+                "repaidAt": "2006-04-01T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "879040-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2012-05-11T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 121616,
+                "term": 43,
+                "repaidAt": "2015-11-22T00:00:00Z",
+                "currentOverdueDebt": 1911,
+                "numberOfDaysOnOverdue": 3,
+                "remainingDebt": 0,
+                "creditId": "995984-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Ивановна",
+        "lastName": "Морозова",
+        "birthDate": "1969-12-02T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "22 95",
+            "number": "989736",
+            "issuedAt": "2015-07-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "781-718"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-03-06T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 289375,
+                "term": 34,
+                "repaidAt": "2021-12-20T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "727667-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2003-06-04T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 188218,
+                "term": 15,
+                "repaidAt": "2004-08-27T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "505664-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2003-04-05T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 421906,
+                "term": 8,
+                "repaidAt": "2003-12-01T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "953233-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Сергеевна",
+        "lastName": "Фёдоров",
+        "birthDate": "1990-09-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "14 21",
+            "number": "391289",
+            "issuedAt": "2019-04-28T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "710-604"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2001-01-03T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 105549,
+                "term": 41,
+                "repaidAt": "2004-05-17T00:00:00Z",
+                "currentOverdueDebt": 8842,
+                "numberOfDaysOnOverdue": 28,
+                "remainingDebt": 0,
+                "creditId": "308492-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2021-12-06T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 40388,
+                "term": 8,
+                "repaidAt": "2022-08-03T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "825574-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2004-03-26T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 185279,
+                "term": 13,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "768373-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Николаевна",
+        "lastName": "Сидорова",
+        "birthDate": "2004-02-01T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "85 16",
+            "number": "347694",
+            "issuedAt": "2005-03-26T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "571-570"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2018-03-19T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 171999,
+                "term": 33,
+                "repaidAt": null,
+                "currentOverdueDebt": 18236,
+                "numberOfDaysOnOverdue": 32,
+                "remainingDebt": 0,
+                "creditId": "964503-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-05-04T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 297933,
+                "term": 37,
+                "repaidAt": "2018-05-18T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "993419-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2003-07-17T00:00:00Z",
+                "rate": 0.08,
+                "loanSum": 11326,
+                "term": 16,
+                "repaidAt": "2004-11-08T00:00:00Z",
+                "currentOverdueDebt": 13480,
+                "numberOfDaysOnOverdue": 22,
+                "remainingDebt": 0,
+                "creditId": "959838-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Сергеевна",
+        "lastName": "Фёдоров",
+        "birthDate": "1963-07-16T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "91 81",
+            "number": "415843",
+            "issuedAt": "2015-06-04T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "487-526"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-03-27T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 80110,
+                "term": 45,
+                "repaidAt": null,
+                "currentOverdueDebt": 19093,
+                "numberOfDaysOnOverdue": 58,
+                "remainingDebt": 0,
+                "creditId": "219735-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-02-02T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 233445,
+                "term": 7,
+                "repaidAt": "2019-08-31T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "346275-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2003-09-04T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 448205,
+                "term": 9,
+                "repaidAt": "2004-05-31T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "986223-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Сергеевна",
+        "lastName": "Смирнова",
+        "birthDate": "1989-08-04T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "60 96",
+            "number": "768116",
+            "issuedAt": "2015-08-26T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "947-677"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2018-04-23T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 291337,
+                "term": 9,
+                "repaidAt": "2019-01-18T00:00:00Z",
+                "currentOverdueDebt": 4833,
+                "numberOfDaysOnOverdue": 2,
+                "remainingDebt": 0,
+                "creditId": "831643-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-03-07T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 207404,
+                "term": 40,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "250155-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Ивановна",
+        "lastName": "Петров",
+        "birthDate": "1985-11-17T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "54 98",
+            "number": "263341",
+            "issuedAt": "2006-05-13T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "254-805"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-03-29T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 258847,
+                "term": 20,
+                "repaidAt": "2011-11-19T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "439417-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-07-05T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 296504,
+                "term": 10,
+                "repaidAt": "2011-05-01T00:00:00Z",
+                "currentOverdueDebt": 10927,
+                "numberOfDaysOnOverdue": 17,
+                "remainingDebt": 0,
+                "creditId": "292060-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2005-07-18T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 332839,
+                "term": 30,
+                "repaidAt": null,
+                "currentOverdueDebt": 14006,
+                "numberOfDaysOnOverdue": 48,
+                "remainingDebt": 0,
+                "creditId": "181330-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2015-07-02T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 157344,
+                "term": 12,
+                "repaidAt": "2016-06-26T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "898903-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Николаевна",
+        "lastName": "Кузнецов",
+        "birthDate": "1971-02-13T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "23 82",
+            "number": "461654",
+            "issuedAt": "2006-08-27T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "278-520"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-11-26T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 16610,
+                "term": 48,
+                "repaidAt": "2013-11-05T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "152196-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2012-12-06T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 127711,
+                "term": 17,
+                "repaidAt": "2014-04-30T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "770538-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Сергеевна",
+        "lastName": "Смирнова",
+        "birthDate": "1995-09-10T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "28 53",
+            "number": "372766",
+            "issuedAt": "2005-04-29T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "584-283"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-10-09T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 328205,
+                "term": 43,
+                "repaidAt": "2021-04-21T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "817748-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-09-09T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 424877,
+                "term": 35,
+                "repaidAt": "2013-07-25T00:00:00Z",
+                "currentOverdueDebt": 5892,
+                "numberOfDaysOnOverdue": 27,
+                "remainingDebt": 0,
+                "creditId": "509709-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-09-16T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 399275,
+                "term": 45,
+                "repaidAt": "2006-05-28T00:00:00Z",
+                "currentOverdueDebt": 11698,
+                "numberOfDaysOnOverdue": 57,
+                "remainingDebt": 0,
+                "creditId": "332728-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Александрович",
+        "lastName": "Фёдоров",
+        "birthDate": "1997-02-07T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "63 54",
+            "number": "410891",
+            "issuedAt": "2020-05-01T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "324-174"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2017-02-06T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 40086,
+                "term": 9,
+                "repaidAt": "2017-11-03T00:00:00Z",
+                "currentOverdueDebt": 13232,
+                "numberOfDaysOnOverdue": 2,
+                "remainingDebt": 0,
+                "creditId": "539027-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2013-05-23T00:00:00Z",
+                "rate": 0.15,
+                "loanSum": 119088,
+                "term": 19,
+                "repaidAt": "2014-12-14T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "467501-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-04-14T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 489749,
+                "term": 30,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "724669-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-03-19T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 450198,
+                "term": 31,
+                "repaidAt": "2008-10-04T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "126954-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Николаевна",
+        "lastName": "Петров",
+        "birthDate": "1971-03-20T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "25 20",
+            "number": "212044",
+            "issuedAt": "2015-12-04T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "373-789"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-04-30T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 441975,
+                "term": 24,
+                "repaidAt": null,
+                "currentOverdueDebt": 17823,
+                "numberOfDaysOnOverdue": 35,
+                "remainingDebt": 0,
+                "creditId": "958798-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Владимирович",
+        "lastName": "Сидорова",
+        "birthDate": "1982-06-16T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "68 14",
+            "number": "245797",
+            "issuedAt": "2009-12-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "973-539"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-03-27T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 160765,
+                "term": 41,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "481056-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Сергеевна",
+        "lastName": "Морозова",
+        "birthDate": "1974-06-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "47 54",
+            "number": "203101",
+            "issuedAt": "2021-07-13T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "625-932"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2019-02-03T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 384503,
+                "term": 21,
+                "repaidAt": "2020-10-25T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "604584-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Николаевна",
+        "lastName": "Морозова",
+        "birthDate": "1960-06-02T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "43 76",
+            "number": "773099",
+            "issuedAt": "2009-08-25T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "991-212"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2020-03-16T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 24131,
+                "term": 48,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "977235-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-10-16T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 231235,
+                "term": 18,
+                "repaidAt": null,
+                "currentOverdueDebt": 2559,
+                "numberOfDaysOnOverdue": 22,
+                "remainingDebt": 0,
+                "creditId": "265395-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-10-30T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 425803,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "859825-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-12-15T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 125583,
+                "term": 15,
+                "repaidAt": null,
+                "currentOverdueDebt": 4468,
+                "numberOfDaysOnOverdue": 38,
+                "remainingDebt": 0,
+                "creditId": "702115-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Владимирович",
+        "lastName": "Смирнова",
+        "birthDate": "1975-07-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "84 73",
+            "number": "288994",
+            "issuedAt": "2019-03-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "152-295"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-09-10T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 201436,
+                "term": 18,
+                "repaidAt": "2025-03-03T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "303659-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-03-06T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 180518,
+                "term": 23,
+                "repaidAt": "2008-01-25T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "927587-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Петрович",
+        "lastName": "Волков",
+        "birthDate": "1989-12-29T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "13 31",
+            "number": "386242",
+            "issuedAt": "2007-07-10T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "245-398"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2022-09-22T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 279570,
+                "term": 10,
+                "repaidAt": null,
+                "currentOverdueDebt": 7547,
+                "numberOfDaysOnOverdue": 4,
+                "remainingDebt": 0,
+                "creditId": "611835-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2009-06-07T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 248729,
+                "term": 29,
+                "repaidAt": "2011-10-25T00:00:00Z",
+                "currentOverdueDebt": 13568,
+                "numberOfDaysOnOverdue": 34,
+                "remainingDebt": 0,
+                "creditId": "342408-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-01-16T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 145019,
+                "term": 33,
+                "repaidAt": null,
+                "currentOverdueDebt": 8010,
+                "numberOfDaysOnOverdue": 51,
+                "remainingDebt": 0,
+                "creditId": "243797-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Петрович",
+        "lastName": "Фёдоров",
+        "birthDate": "1974-05-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "81 27",
+            "number": "576967",
+            "issuedAt": "2015-03-02T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "434-719"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2016-09-09T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 465123,
+                "term": 33,
+                "repaidAt": "2019-05-27T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "771937-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-08-06T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 43631,
+                "term": 37,
+                "repaidAt": "2012-08-20T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "287759-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2020-01-14T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 147467,
+                "term": 22,
+                "repaidAt": "2021-11-04T00:00:00Z",
+                "currentOverdueDebt": 6045,
+                "numberOfDaysOnOverdue": 52,
+                "remainingDebt": 0,
+                "creditId": "541719-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-10-30T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 137904,
+                "term": 24,
+                "repaidAt": "2007-10-20T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "260612-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Ивановна",
+        "lastName": "Волков",
+        "birthDate": "2002-05-22T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "90 64",
+            "number": "748874",
+            "issuedAt": "2017-11-24T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "170-634"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2005-11-11T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 41389,
+                "term": 40,
+                "repaidAt": null,
+                "currentOverdueDebt": 16173,
+                "numberOfDaysOnOverdue": 18,
+                "remainingDebt": 0,
+                "creditId": "266999-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2003-07-17T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 432696,
+                "term": 12,
+                "repaidAt": "2004-07-11T00:00:00Z",
+                "currentOverdueDebt": 10010,
+                "numberOfDaysOnOverdue": 1,
+                "remainingDebt": 0,
+                "creditId": "603358-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Николаевна",
+        "lastName": "Морозова",
+        "birthDate": "1990-04-06T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "62 54",
+            "number": "276517",
+            "issuedAt": "2023-06-01T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "739-308"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-01-07T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 205386,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 1226,
+                "numberOfDaysOnOverdue": 60,
+                "remainingDebt": 0,
+                "creditId": "657251-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-03-26T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 346834,
+                "term": 19,
+                "repaidAt": null,
+                "currentOverdueDebt": 5986,
+                "numberOfDaysOnOverdue": 30,
+                "remainingDebt": 0,
+                "creditId": "864611-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-03-06T00:00:00Z",
+                "rate": 0.15,
+                "loanSum": 382587,
+                "term": 12,
+                "repaidAt": "2008-02-29T00:00:00Z",
+                "currentOverdueDebt": 9490,
+                "numberOfDaysOnOverdue": 20,
+                "remainingDebt": 0,
+                "creditId": "656244-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-02-22T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 114564,
+                "term": 24,
+                "repaidAt": "2018-02-11T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "750555-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Владимирович",
+        "lastName": "Петров",
+        "birthDate": "1996-01-20T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "55 66",
+            "number": "575603",
+            "issuedAt": "2014-12-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "773-705"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-04-04T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 457466,
+                "term": 24,
+                "repaidAt": "2003-03-25T00:00:00Z",
+                "currentOverdueDebt": 11884,
+                "numberOfDaysOnOverdue": 18,
+                "remainingDebt": 0,
+                "creditId": "136551-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2012-08-11T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 196424,
+                "term": 25,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "267028-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Александрович",
+        "lastName": "Петров",
+        "birthDate": "1995-01-06T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "90 43",
+            "number": "650803",
+            "issuedAt": "2012-10-17T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "908-320"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-01-08T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 331155,
+                "term": 46,
+                "repaidAt": "2005-10-19T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "291325-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-02-02T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 404464,
+                "term": 44,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "945826-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2015-02-11T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 304107,
+                "term": 13,
+                "repaidAt": "2016-03-07T00:00:00Z",
+                "currentOverdueDebt": 10749,
+                "numberOfDaysOnOverdue": 33,
+                "remainingDebt": 0,
+                "creditId": "847288-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Александрович",
+        "lastName": "Морозова",
+        "birthDate": "1976-02-01T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "16 73",
+            "number": "891806",
+            "issuedAt": "2016-01-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "862-873"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-04-24T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 406043,
+                "term": 15,
+                "repaidAt": "2002-07-18T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "499190-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Николаевна",
+        "lastName": "Фёдоров",
+        "birthDate": "1971-11-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "20 93",
+            "number": "216286",
+            "issuedAt": "2019-04-28T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "272-657"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-10-17T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 267829,
+                "term": 31,
+                "repaidAt": null,
+                "currentOverdueDebt": 13330,
+                "numberOfDaysOnOverdue": 6,
+                "remainingDebt": 0,
+                "creditId": "635735-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-04-11T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 386572,
+                "term": 29,
+                "repaidAt": "2009-08-28T00:00:00Z",
+                "currentOverdueDebt": 17349,
+                "numberOfDaysOnOverdue": 7,
+                "remainingDebt": 0,
+                "creditId": "676756-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2004-05-22T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 155536,
+                "term": 15,
+                "repaidAt": "2005-08-15T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "868419-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Ивановна",
+        "lastName": "Петров",
+        "birthDate": "1962-06-11T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "36 34",
+            "number": "761643",
+            "issuedAt": "2008-12-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "496-446"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-12-27T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 255943,
+                "term": 47,
+                "repaidAt": "2006-11-06T00:00:00Z",
+                "currentOverdueDebt": 2581,
+                "numberOfDaysOnOverdue": 2,
+                "remainingDebt": 0,
+                "creditId": "538612-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Петрович",
+        "lastName": "Фёдоров",
+        "birthDate": "1974-12-26T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "54 39",
+            "number": "713527",
+            "issuedAt": "2011-02-20T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "811-449"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2012-10-28T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 178197,
+                "term": 12,
+                "repaidAt": "2013-10-23T00:00:00Z",
+                "currentOverdueDebt": 12023,
+                "numberOfDaysOnOverdue": 29,
+                "remainingDebt": 0,
+                "creditId": "766932-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-09-01T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 382685,
+                "term": 29,
+                "repaidAt": null,
+                "currentOverdueDebt": 19583,
+                "numberOfDaysOnOverdue": 36,
+                "remainingDebt": 0,
+                "creditId": "332418-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2008-05-17T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 486409,
+                "term": 37,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "648306-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2011-07-10T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 213343,
+                "term": 41,
+                "repaidAt": "2014-11-21T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "156111-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Ивановна",
+        "lastName": "Морозова",
+        "birthDate": "1990-10-05T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "71 37",
+            "number": "842947",
+            "issuedAt": "2021-10-14T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "164-651"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-02-10T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 218534,
+                "term": 11,
+                "repaidAt": "2024-01-06T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "304940-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2017-07-26T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 69890,
+                "term": 26,
+                "repaidAt": "2019-09-14T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "928231-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-06-04T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 403182,
+                "term": 19,
+                "repaidAt": "2017-12-26T00:00:00Z",
+                "currentOverdueDebt": 13822,
+                "numberOfDaysOnOverdue": 31,
+                "remainingDebt": 0,
+                "creditId": "320514-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-10-03T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 20613,
+                "term": 10,
+                "repaidAt": "2006-07-30T00:00:00Z",
+                "currentOverdueDebt": 4620,
+                "numberOfDaysOnOverdue": 57,
+                "remainingDebt": 0,
+                "creditId": "780542-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Сергеевна",
+        "lastName": "Петров",
+        "birthDate": "1968-07-31T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "39 35",
+            "number": "355878",
+            "issuedAt": "2015-03-12T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "162-210"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2014-03-17T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 139900,
+                "term": 22,
+                "repaidAt": "2016-01-06T00:00:00Z",
+                "currentOverdueDebt": 5254,
+                "numberOfDaysOnOverdue": 31,
+                "remainingDebt": 0,
+                "creditId": "148318-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-04-27T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 372230,
+                "term": 9,
+                "repaidAt": "2020-01-22T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "620158-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Владимирович",
+        "lastName": "Кузнецов",
+        "birthDate": "1966-11-16T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "66 22",
+            "number": "405662",
+            "issuedAt": "2014-08-08T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "455-703"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2016-03-26T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 460160,
+                "term": 38,
+                "repaidAt": null,
+                "currentOverdueDebt": 12474,
+                "numberOfDaysOnOverdue": 47,
+                "remainingDebt": 0,
+                "creditId": "504280-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2016-04-04T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 367058,
+                "term": 33,
+                "repaidAt": "2018-12-20T00:00:00Z",
+                "currentOverdueDebt": 19655,
+                "numberOfDaysOnOverdue": 38,
+                "remainingDebt": 0,
+                "creditId": "945517-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Петрович",
+        "lastName": "Морозова",
+        "birthDate": "1993-11-22T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "10 37",
+            "number": "249074",
+            "issuedAt": "2013-01-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "704-964"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-11-22T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 106126,
+                "term": 12,
+                "repaidAt": "2017-11-17T00:00:00Z",
+                "currentOverdueDebt": 4679,
+                "numberOfDaysOnOverdue": 6,
+                "remainingDebt": 0,
+                "creditId": "449150-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2020-07-25T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 115017,
+                "term": 43,
+                "repaidAt": "2024-02-05T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "772152-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-10-18T00:00:00Z",
+                "rate": 0.05,
+                "loanSum": 472363,
+                "term": 48,
+                "repaidAt": "2020-09-27T00:00:00Z",
+                "currentOverdueDebt": 10279,
+                "numberOfDaysOnOverdue": 57,
+                "remainingDebt": 0,
+                "creditId": "542816-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Сергеевна",
+        "lastName": "Смирнова",
+        "birthDate": "2000-01-30T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "69 26",
+            "number": "465273",
+            "issuedAt": "2010-09-19T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "830-757"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2010-02-24T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 235195,
+                "term": 27,
+                "repaidAt": null,
+                "currentOverdueDebt": 16577,
+                "numberOfDaysOnOverdue": 9,
+                "remainingDebt": 0,
+                "creditId": "606437-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2013-11-12T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 475732,
+                "term": 13,
+                "repaidAt": "2014-12-07T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "818276-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Александрович",
+        "lastName": "Петров",
+        "birthDate": "1982-12-12T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "25 67",
+            "number": "529898",
+            "issuedAt": "2021-06-08T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "776-970"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-08-29T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 396778,
+                "term": 16,
+                "repaidAt": "2006-12-22T00:00:00Z",
+                "currentOverdueDebt": 8121,
+                "numberOfDaysOnOverdue": 50,
+                "remainingDebt": 0,
+                "creditId": "417881-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2014-06-01T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 222763,
+                "term": 31,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "715548-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Александрович",
+        "lastName": "Кузнецов",
+        "birthDate": "1990-06-30T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "76 42",
+            "number": "491912",
+            "issuedAt": "2014-05-14T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "226-963"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2006-07-15T00:00:00Z",
+                "rate": 0.23,
+                "loanSum": 164207,
+                "term": 23,
+                "repaidAt": "2008-06-04T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "191191-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2008-08-06T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 464155,
+                "term": 9,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "614998-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Сергеевна",
+        "lastName": "Сидорова",
+        "birthDate": "1986-09-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "11 16",
+            "number": "185892",
+            "issuedAt": "2019-07-13T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "853-550"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-03-28T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 161159,
+                "term": 28,
+                "repaidAt": "2009-07-15T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "741877-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2010-05-18T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 466251,
+                "term": 39,
+                "repaidAt": "2013-07-31T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "178904-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-07-29T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 177142,
+                "term": 41,
+                "repaidAt": "2012-12-10T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "525157-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Александрович",
+        "lastName": "Петров",
+        "birthDate": "1983-11-13T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "31 96",
+            "number": "327492",
+            "issuedAt": "2014-02-11T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "450-274"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-01-26T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 243074,
+                "term": 32,
+                "repaidAt": "2025-09-12T00:00:00Z",
+                "currentOverdueDebt": 10141,
+                "numberOfDaysOnOverdue": 29,
+                "remainingDebt": 0,
+                "creditId": "361632-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Владимирович",
+        "lastName": "Петров",
+        "birthDate": "1962-01-10T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "88 78",
+            "number": "797528",
+            "issuedAt": "2020-06-21T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "920-112"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-04-16T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 109546,
+                "term": 40,
+                "repaidAt": "2018-07-29T00:00:00Z",
+                "currentOverdueDebt": 8649,
+                "numberOfDaysOnOverdue": 60,
+                "remainingDebt": 0,
+                "creditId": "407753-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Ивановна",
+        "lastName": "Морозова",
+        "birthDate": "1966-03-21T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "73 34",
+            "number": "181121",
+            "issuedAt": "2021-02-08T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "128-794"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2004-09-17T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 308821,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 6510,
+                "numberOfDaysOnOverdue": 55,
+                "remainingDebt": 0,
+                "creditId": "607420-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-08-13T00:00:00Z",
+                "rate": 0.27,
+                "loanSum": 15094,
+                "term": 30,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "284183-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2020-04-02T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 102565,
+                "term": 44,
+                "repaidAt": "2023-11-13T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "860880-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2012-05-25T00:00:00Z",
+                "rate": 0.15,
+                "loanSum": 319616,
+                "term": 45,
+                "repaidAt": "2016-02-04T00:00:00Z",
+                "currentOverdueDebt": 13225,
+                "numberOfDaysOnOverdue": 23,
+                "remainingDebt": 0,
+                "creditId": "814601-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Владимирович",
+        "lastName": "Кузнецов",
+        "birthDate": "2004-10-28T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "70 56",
+            "number": "442225",
+            "issuedAt": "2019-06-30T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "143-618"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2022-11-26T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 121282,
+                "term": 10,
+                "repaidAt": null,
+                "currentOverdueDebt": 3261,
+                "numberOfDaysOnOverdue": 40,
+                "remainingDebt": 0,
+                "creditId": "242937-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2000-12-27T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 471265,
+                "term": 40,
+                "repaidAt": "2004-04-10T00:00:00Z",
+                "currentOverdueDebt": 13927,
+                "numberOfDaysOnOverdue": 49,
+                "remainingDebt": 0,
+                "creditId": "456699-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2001-05-03T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 355470,
+                "term": 48,
+                "repaidAt": "2005-04-12T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "432952-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Сергеевна",
+        "lastName": "Фёдоров",
+        "birthDate": "1981-10-08T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "76 75",
+            "number": "333611",
+            "issuedAt": "2015-04-18T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "973-213"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-11-26T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 119485,
+                "term": 20,
+                "repaidAt": "2021-07-18T00:00:00Z",
+                "currentOverdueDebt": 12870,
+                "numberOfDaysOnOverdue": 12,
+                "remainingDebt": 0,
+                "creditId": "822147-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2018-10-18T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 332461,
+                "term": 33,
+                "repaidAt": "2021-07-04T00:00:00Z",
+                "currentOverdueDebt": 17945,
+                "numberOfDaysOnOverdue": 23,
+                "remainingDebt": 0,
+                "creditId": "790682-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-08-29T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 205764,
+                "term": 37,
+                "repaidAt": "2010-09-12T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "305173-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Владимирович",
+        "lastName": "Смирнова",
+        "birthDate": "1970-12-11T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "39 93",
+            "number": "541831",
+            "issuedAt": "2010-07-25T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "380-136"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2006-04-05T00:00:00Z",
+                "rate": 0.28,
+                "loanSum": 317588,
+                "term": 21,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "380440-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-08-15T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 164217,
+                "term": 16,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "766434-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2012-03-14T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 418350,
+                "term": 18,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "967575-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Ивановна",
+        "lastName": "Сидорова",
+        "birthDate": "1962-01-20T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "68 29",
+            "number": "893437",
+            "issuedAt": "2018-12-24T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "842-748"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2004-05-02T00:00:00Z",
+                "rate": 0.08,
+                "loanSum": 109286,
+                "term": 33,
+                "repaidAt": "2007-01-17T00:00:00Z",
+                "currentOverdueDebt": 11014,
+                "numberOfDaysOnOverdue": 13,
+                "remainingDebt": 0,
+                "creditId": "127366-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-10-21T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 215007,
+                "term": 7,
+                "repaidAt": "2024-05-18T00:00:00Z",
+                "currentOverdueDebt": 14539,
+                "numberOfDaysOnOverdue": 32,
+                "remainingDebt": 0,
+                "creditId": "738433-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2022-04-10T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 103714,
+                "term": 28,
+                "repaidAt": "2024-07-28T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "776190-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Николаевна",
+        "lastName": "Фёдоров",
+        "birthDate": "1979-04-12T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "74 48",
+            "number": "920721",
+            "issuedAt": "2015-05-06T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "543-152"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-06-29T00:00:00Z",
+                "rate": 0.05,
+                "loanSum": 120581,
+                "term": 19,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "539024-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2006-06-19T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 372022,
+                "term": 26,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "396564-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Петрович",
+        "lastName": "Морозова",
+        "birthDate": "1995-01-10T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "74 74",
+            "number": "900353",
+            "issuedAt": "2016-06-07T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "702-523"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2011-03-07T00:00:00Z",
+                "rate": 0.15,
+                "loanSum": 277702,
+                "term": 31,
+                "repaidAt": "2013-09-22T00:00:00Z",
+                "currentOverdueDebt": 1937,
+                "numberOfDaysOnOverdue": 11,
+                "remainingDebt": 0,
+                "creditId": "273187-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-05-21T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 280865,
+                "term": 27,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "749092-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-02-11T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 127454,
+                "term": 29,
+                "repaidAt": null,
+                "currentOverdueDebt": 6531,
+                "numberOfDaysOnOverdue": 2,
+                "remainingDebt": 0,
+                "creditId": "403640-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2013-01-07T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 285972,
+                "term": 25,
+                "repaidAt": "2015-01-27T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "897776-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Петрович",
+        "lastName": "Петров",
+        "birthDate": "1977-05-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "32 46",
+            "number": "606563",
+            "issuedAt": "2020-08-18T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "554-431"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-08-22T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 108569,
+                "term": 10,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "419579-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2017-02-05T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 99596,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 13140,
+                "numberOfDaysOnOverdue": 59,
+                "remainingDebt": 0,
+                "creditId": "576660-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Сергеевна",
+        "lastName": "Сидорова",
+        "birthDate": "1998-02-28T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "46 94",
+            "number": "748347",
+            "issuedAt": "2023-07-26T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "312-753"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-02-13T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 295913,
+                "term": 11,
+                "repaidAt": "2005-01-08T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "675223-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-10-15T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 125175,
+                "term": 23,
+                "repaidAt": "2025-09-04T00:00:00Z",
+                "currentOverdueDebt": 2673,
+                "numberOfDaysOnOverdue": 7,
+                "remainingDebt": 0,
+                "creditId": "844330-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2020-03-24T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 182805,
+                "term": 37,
+                "repaidAt": null,
+                "currentOverdueDebt": 6436,
+                "numberOfDaysOnOverdue": 21,
+                "remainingDebt": 0,
+                "creditId": "837630-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2019-09-05T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 28942,
+                "term": 43,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "326078-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Александрович",
+        "lastName": "Соколова",
+        "birthDate": "1996-05-03T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "82 88",
+            "number": "800288",
+            "issuedAt": "2017-03-30T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "960-456"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2003-08-03T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 447567,
+                "term": 12,
+                "repaidAt": "2004-07-28T00:00:00Z",
+                "currentOverdueDebt": 19407,
+                "numberOfDaysOnOverdue": 45,
+                "remainingDebt": 0,
+                "creditId": "960912-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2020-10-08T00:00:00Z",
+                "rate": 0.2,
+                "loanSum": 499452,
+                "term": 45,
+                "repaidAt": null,
+                "currentOverdueDebt": 12606,
+                "numberOfDaysOnOverdue": 55,
+                "remainingDebt": 0,
+                "creditId": "327666-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Владимирович",
+        "lastName": "Волков",
+        "birthDate": "1971-10-13T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "92 74",
+            "number": "313048",
+            "issuedAt": "2006-04-04T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "878-773"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-07-02T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 10812,
+                "term": 31,
+                "repaidAt": "2019-01-18T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "729146-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2011-11-14T00:00:00Z",
+                "rate": 0.19,
+                "loanSum": 219933,
+                "term": 10,
+                "repaidAt": "2012-09-09T00:00:00Z",
+                "currentOverdueDebt": 12619,
+                "numberOfDaysOnOverdue": 1,
+                "remainingDebt": 0,
+                "creditId": "937707-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Николаевна",
+        "lastName": "Сидорова",
+        "birthDate": "1977-07-29T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "66 68",
+            "number": "786867",
+            "issuedAt": "2009-12-07T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "825-580"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2005-06-11T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 421998,
+                "term": 27,
+                "repaidAt": null,
+                "currentOverdueDebt": 9618,
+                "numberOfDaysOnOverdue": 55,
+                "remainingDebt": 0,
+                "creditId": "145219-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-12-02T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 261314,
+                "term": 17,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "597437-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2012-12-20T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 176585,
+                "term": 39,
+                "repaidAt": "2016-03-04T00:00:00Z",
+                "currentOverdueDebt": 4280,
+                "numberOfDaysOnOverdue": 15,
+                "remainingDebt": 0,
+                "creditId": "631769-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2020-10-18T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 78173,
+                "term": 15,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "185400-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Николаевна",
+        "lastName": "Фёдоров",
+        "birthDate": "1983-06-12T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "41 78",
+            "number": "682457",
+            "issuedAt": "2013-06-18T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "635-862"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2009-01-04T00:00:00Z",
+                "rate": 0.08,
+                "loanSum": 250263,
+                "term": 11,
+                "repaidAt": null,
+                "currentOverdueDebt": 2168,
+                "numberOfDaysOnOverdue": 30,
+                "remainingDebt": 0,
+                "creditId": "864763-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Петрович",
+        "lastName": "Соколова",
+        "birthDate": "1981-06-11T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "85 96",
+            "number": "295922",
+            "issuedAt": "2009-12-28T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "693-842"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2001-03-08T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 47743,
+                "term": 47,
+                "repaidAt": null,
+                "currentOverdueDebt": 16478,
+                "numberOfDaysOnOverdue": 41,
+                "remainingDebt": 0,
+                "creditId": "569451-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-05-22T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 36223,
+                "term": 27,
+                "repaidAt": "2012-08-09T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "890334-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2015-06-04T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 315685,
+                "term": 35,
+                "repaidAt": "2018-04-19T00:00:00Z",
+                "currentOverdueDebt": 17378,
+                "numberOfDaysOnOverdue": 55,
+                "remainingDebt": 0,
+                "creditId": "664400-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Ивановна",
+        "lastName": "Кузнецов",
+        "birthDate": "1995-12-02T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "91 67",
+            "number": "384792",
+            "issuedAt": "2005-05-14T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "375-723"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2021-12-02T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 232904,
+                "term": 14,
+                "repaidAt": null,
+                "currentOverdueDebt": 5201,
+                "numberOfDaysOnOverdue": 36,
+                "remainingDebt": 0,
+                "creditId": "856102-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Владимирович",
+        "lastName": "Морозова",
+        "birthDate": "1970-08-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "60 11",
+            "number": "659466",
+            "issuedAt": "2010-01-07T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "728-704"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2001-11-20T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 433172,
+                "term": 26,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "381588-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2023-04-27T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 85401,
+                "term": 17,
+                "repaidAt": "2024-09-18T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "243893-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Сергеевна",
+        "lastName": "Кузнецов",
+        "birthDate": "1981-08-25T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "43 71",
+            "number": "626143",
+            "issuedAt": "2005-06-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "368-160"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-12-01T00:00:00Z",
+                "rate": 0.05,
+                "loanSum": 380212,
+                "term": 39,
+                "repaidAt": null,
+                "currentOverdueDebt": 8547,
+                "numberOfDaysOnOverdue": 18,
+                "remainingDebt": 0,
+                "creditId": "335846-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-06-30T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 172097,
+                "term": 18,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "600097-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Ивановна",
+        "lastName": "Смирнова",
+        "birthDate": "1963-08-17T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "19 52",
+            "number": "567303",
+            "issuedAt": "2016-04-14T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "966-238"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2013-11-14T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 447949,
+                "term": 48,
+                "repaidAt": "2017-10-24T00:00:00Z",
+                "currentOverdueDebt": 16649,
+                "numberOfDaysOnOverdue": 27,
+                "remainingDebt": 0,
+                "creditId": "921574-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2016-04-17T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 196414,
+                "term": 24,
+                "repaidAt": "2018-04-07T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "548760-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-10-05T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 131828,
+                "term": 21,
+                "repaidAt": "2004-06-26T00:00:00Z",
+                "currentOverdueDebt": 2596,
+                "numberOfDaysOnOverdue": 7,
+                "remainingDebt": 0,
+                "creditId": "396593-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2022-03-19T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 132966,
+                "term": 31,
+                "repaidAt": null,
+                "currentOverdueDebt": 11418,
+                "numberOfDaysOnOverdue": 40,
+                "remainingDebt": 0,
+                "creditId": "478693-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Сергеевна",
+        "lastName": "Смирнова",
+        "birthDate": "1970-06-16T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "37 22",
+            "number": "325769",
+            "issuedAt": "2023-06-17T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "892-751"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2018-10-12T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 349801,
+                "term": 47,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "103374-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Петрович",
+        "lastName": "Сидорова",
+        "birthDate": "1988-04-19T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "79 39",
+            "number": "472199",
+            "issuedAt": "2007-06-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "957-451"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2017-03-18T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 57842,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 10251,
+                "numberOfDaysOnOverdue": 9,
+                "remainingDebt": 0,
+                "creditId": "512126-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-07-17T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 238812,
+                "term": 41,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "265162-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2011-12-09T00:00:00Z",
+                "rate": 0.29,
+                "loanSum": 110174,
+                "term": 37,
+                "repaidAt": "2014-12-23T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "886288-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Анна",
+        "middleName": "Николаевна",
+        "lastName": "Кузнецов",
+        "birthDate": "1995-10-05T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "92 94",
+            "number": "305661",
+            "issuedAt": "2008-08-03T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "978-922"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-03-11T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 121788,
+                "term": 46,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "601197-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2002-07-05T00:00:00Z",
+                "rate": 0.06,
+                "loanSum": 214742,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "887108-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-05-12T00:00:00Z",
+                "rate": 0.3,
+                "loanSum": 316108,
+                "term": 12,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "761160-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Алексей",
+        "middleName": "Владимирович",
+        "lastName": "Сидорова",
+        "birthDate": "1970-08-09T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "33 88",
+            "number": "624856",
+            "issuedAt": "2020-05-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "411-161"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2004-07-20T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 186443,
+                "term": 42,
+                "repaidAt": "2008-01-01T00:00:00Z",
+                "currentOverdueDebt": 5147,
+                "numberOfDaysOnOverdue": 12,
+                "remainingDebt": 0,
+                "creditId": "470057-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2012-08-13T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 278222,
+                "term": 44,
+                "repaidAt": null,
+                "currentOverdueDebt": 6175,
+                "numberOfDaysOnOverdue": 52,
+                "remainingDebt": 0,
+                "creditId": "641617-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2022-01-07T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 10980,
+                "term": 38,
+                "repaidAt": null,
+                "currentOverdueDebt": 8057,
+                "numberOfDaysOnOverdue": 27,
+                "remainingDebt": 0,
+                "creditId": "576825-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Сергеевна",
+        "lastName": "Соколова",
+        "birthDate": "1974-03-19T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "37 99",
+            "number": "700874",
+            "issuedAt": "2015-11-14T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "692-902"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2005-05-24T00:00:00Z",
+                "rate": 0.07,
+                "loanSum": 322460,
+                "term": 45,
+                "repaidAt": null,
+                "currentOverdueDebt": 15497,
+                "numberOfDaysOnOverdue": 12,
+                "remainingDebt": 0,
+                "creditId": "924767-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2013-08-15T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 22780,
+                "term": 29,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "518160-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Сергеевна",
+        "lastName": "Кузнецов",
+        "birthDate": "1990-08-10T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "10 85",
+            "number": "237235",
+            "issuedAt": "2005-12-22T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "816-558"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2007-10-17T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 85955,
+                "term": 18,
+                "repaidAt": "2009-04-09T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "919653-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2011-09-30T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 287739,
+                "term": 41,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "994713-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2014-03-14T00:00:00Z",
+                "rate": 0.1,
+                "loanSum": 178440,
+                "term": 22,
+                "repaidAt": null,
+                "currentOverdueDebt": 13761,
+                "numberOfDaysOnOverdue": 40,
+                "remainingDebt": 0,
+                "creditId": "269475-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Александрович",
+        "lastName": "Волков",
+        "birthDate": "1973-06-23T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "38 90",
+            "number": "544207",
+            "issuedAt": "2007-07-10T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "861-354"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2000-05-27T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 154798,
+                "term": 43,
+                "repaidAt": "2003-12-08T00:00:00Z",
+                "currentOverdueDebt": 3865,
+                "numberOfDaysOnOverdue": 36,
+                "remainingDebt": 0,
+                "creditId": "338116-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2013-08-15T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 312784,
+                "term": 36,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "223386-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Александрович",
+        "lastName": "Морозова",
+        "birthDate": "1960-02-20T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "71 11",
+            "number": "980658",
+            "issuedAt": "2020-06-13T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "443-480"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2023-08-15T00:00:00Z",
+                "rate": 0.22,
+                "loanSum": 157546,
+                "term": 20,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "966750-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2018-11-29T00:00:00Z",
+                "rate": 0.11,
+                "loanSum": 242531,
+                "term": 23,
+                "repaidAt": null,
+                "currentOverdueDebt": 14834,
+                "numberOfDaysOnOverdue": 42,
+                "remainingDebt": 0,
+                "creditId": "292462-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Игорь",
+        "middleName": "Владимирович",
+        "lastName": "Петров",
+        "birthDate": "1975-07-14T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "86 19",
+            "number": "591931",
+            "issuedAt": "2019-06-20T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "251-113"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2015-08-27T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 134019,
+                "term": 7,
+                "repaidAt": "2016-03-24T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "105890-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Сергей",
+        "middleName": "Александрович",
+        "lastName": "Петров",
+        "birthDate": "1968-01-28T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "53 56",
+            "number": "261132",
+            "issuedAt": "2019-10-30T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "203-390"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2019-01-29T00:00:00Z",
+                "rate": 0.09,
+                "loanSum": 75566,
+                "term": 24,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "801151-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2021-11-17T00:00:00Z",
+                "rate": 0.26,
+                "loanSum": 18258,
+                "term": 45,
+                "repaidAt": null,
+                "currentOverdueDebt": 10299,
+                "numberOfDaysOnOverdue": 40,
+                "remainingDebt": 0,
+                "creditId": "962181-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Елена",
+        "middleName": "Ивановна",
+        "lastName": "Волков",
+        "birthDate": "1973-03-30T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "16 40",
+            "number": "781660",
+            "issuedAt": "2012-02-06T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "129-732"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2009-01-15T00:00:00Z",
+                "rate": 0.13,
+                "loanSum": 163562,
+                "term": 19,
+                "repaidAt": null,
+                "currentOverdueDebt": 17420,
+                "numberOfDaysOnOverdue": 39,
+                "remainingDebt": 0,
+                "creditId": "563615-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2019-08-15T00:00:00Z",
+                "rate": 0.08,
+                "loanSum": 175591,
+                "term": 7,
+                "repaidAt": "2020-03-12T00:00:00Z",
+                "currentOverdueDebt": 7015,
+                "numberOfDaysOnOverdue": 15,
+                "remainingDebt": 0,
+                "creditId": "231329-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Владимирович",
+        "lastName": "Петров",
+        "birthDate": "1966-09-21T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "19 79",
+            "number": "660324",
+            "issuedAt": "2013-03-16T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "838-290"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2012-12-12T00:00:00Z",
+                "rate": 0.25,
+                "loanSum": 498837,
+                "term": 20,
+                "repaidAt": "2014-08-04T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "965266-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Петрович",
+        "lastName": "Петров",
+        "birthDate": "1967-01-25T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "23 59",
+            "number": "411733",
+            "issuedAt": "2017-12-09T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "500-174"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-04-01T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 269298,
+                "term": 7,
+                "repaidAt": null,
+                "currentOverdueDebt": 3012,
+                "numberOfDaysOnOverdue": 8,
+                "remainingDebt": 0,
+                "creditId": "485761-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-08-28T00:00:00Z",
+                "rate": 0.14,
+                "loanSum": 178291,
+                "term": 47,
+                "repaidAt": "2014-07-08T00:00:00Z",
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "959589-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2019-10-13T00:00:00Z",
+                "rate": 0.12,
+                "loanSum": 310932,
+                "term": 19,
+                "repaidAt": "2021-05-05T00:00:00Z",
+                "currentOverdueDebt": 6207,
+                "numberOfDaysOnOverdue": 20,
+                "remainingDebt": 0,
+                "creditId": "242143-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Мария",
+        "middleName": "Петрович",
+        "lastName": "Сидорова",
+        "birthDate": "1985-05-04T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "66 74",
+            "number": "128453",
+            "issuedAt": "2022-05-05T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "894-448"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2002-03-25T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 496530,
+                "term": 18,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "296441-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Дмитрий",
+        "middleName": "Ивановна",
+        "lastName": "Сидорова",
+        "birthDate": "1967-08-21T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "45 34",
+            "number": "314940",
+            "issuedAt": "2017-04-01T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "318-415"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредит наличными",
+                "currency": "RUB",
+                "issuedAt": "2018-04-12T00:00:00Z",
+                "rate": 0.17,
+                "loanSum": 266562,
+                "term": 14,
+                "repaidAt": null,
+                "currentOverdueDebt": 2456,
+                "numberOfDaysOnOverdue": 48,
+                "remainingDebt": 0,
+                "creditId": "456280-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    },
+    {
+        "firstName": "Ольга",
+        "middleName": "Владимирович",
+        "lastName": "Сидорова",
+        "birthDate": "2001-05-15T00:00:00Z",
+        "citizenship": "РФ",
+        "passport": {
+            "series": "37 39",
+            "number": "327809",
+            "issuedAt": "2014-09-21T00:00:00Z",
+            "issuer": "УФМС",
+            "issuerСode": "534-373"
+        },
+        "creditHistory": [
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2008-02-29T00:00:00Z",
+                "rate": 0.24,
+                "loanSum": 348407,
+                "term": 9,
+                "repaidAt": null,
+                "currentOverdueDebt": 5507,
+                "numberOfDaysOnOverdue": 11,
+                "remainingDebt": 0,
+                "creditId": "233451-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2010-03-12T00:00:00Z",
+                "rate": 0.16,
+                "loanSum": 218917,
+                "term": 33,
+                "repaidAt": "2012-11-26T00:00:00Z",
+                "currentOverdueDebt": 6619,
+                "numberOfDaysOnOverdue": 30,
+                "remainingDebt": 0,
+                "creditId": "474127-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-07-28T00:00:00Z",
+                "rate": 0.21,
+                "loanSum": 23059,
+                "term": 7,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "300925-fbbc-11ee-a951-0242ac120002"
+            },
+            {
+                "type": "Кредитная карта",
+                "currency": "RUB",
+                "issuedAt": "2007-08-21T00:00:00Z",
+                "rate": 0.18,
+                "loanSum": 224066,
+                "term": 43,
+                "repaidAt": null,
+                "currentOverdueDebt": 0,
+                "numberOfDaysOnOverdue": 0,
+                "remainingDebt": 0,
+                "creditId": "618897-fbbc-11ee-a951-0242ac120002"
+            }
+        ]
+    }
+]

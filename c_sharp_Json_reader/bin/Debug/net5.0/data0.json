@@ -1,0 +1,44 @@
+
+{
+    "firstName": "Елена",
+    "middleName": "Александрович",
+    "lastName": "Морозова",
+    "birthDate": "1975-03-24T00:00:00Z",
+    "citizenship": "РФ",
+    "passport": {
+        "series": "88 77",
+        "number": "186202",
+        "issuedAt": "2015-03-09T00:00:00Z",
+        "issuer": "УФМС",
+        "issuerСode": "668-560"
+    },
+    "creditHistory": [
+        {
+            "type": "Кредитная карта",
+            "currency": "RUB",
+            "issuedAt": "2022-03-03T00:00:00Z",
+            "rate": 0.06,
+            "loanSum": 220469,
+            "term": 42,
+            "repaidAt": null,
+            "currentOverdueDebt": 17672,
+            "numberOfDaysOnOverdue": 48,
+            "remainingDebt": 0,
+            "creditId": "808635-fbbc-11ee-a951-0242ac120002"
+        },
+        {
+            "type": "Кредитная карта",
+            "currency": "RUB",
+            "issuedAt": "2000-02-29T00:00:00Z",
+            "rate": 0.28,
+            "loanSum": 368616,
+            "term": 28,
+            "repaidAt": null,
+            "currentOverdueDebt": 0,
+            "numberOfDaysOnOverdue": 0,
+            "remainingDebt": 0,
+            "creditId": "950347-fbbc-11ee-a951-0242ac120002"
+        }
+    ]
+}
+    
